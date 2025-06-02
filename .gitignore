@@ -1,2 +1,4 @@
 .env
 logs.csv
+venv/
+.venv/

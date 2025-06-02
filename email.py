@@ -1,1 +1,0 @@
-# this file contails the email automation
