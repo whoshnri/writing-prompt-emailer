@@ -5,6 +5,8 @@ So basically the flow of this project is simple >> The prompts are generated >> 
 
 Server credentials are stored in the .env file
 
+Ik its easy, just take it as a practice
+
 ## Automating the Task
 
 To repeat the prompt-emailing task every time you run a bash script, you can create a shell script that runs the python file in a loop
@@ -30,3 +32,4 @@ python send_prompt.py
 
 **Please feel free to add stuff to this and comment appropriate**
 ----Committed changes here----
+
