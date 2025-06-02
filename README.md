@@ -27,3 +27,6 @@ python send_prompt.py
 
 **Note:**  
 - Make sure to activate your virtual environment and install required modules (like `smtplib`, `dotenv`, etc.)
+
+**Please feel free to add stuff to this and comment appropriate**
+----Committed changes here----
